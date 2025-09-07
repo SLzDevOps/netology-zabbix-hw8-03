@@ -95,7 +95,7 @@
 ## «Задание 2-3»
 `
 ![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_525.png)
-`
+
 
 ### Задание 4
 
@@ -119,5 +119,5 @@
 
 `
 ![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_526.png)
-`
+
 

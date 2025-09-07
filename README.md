@@ -42,8 +42,8 @@
 ```
 
 `
-![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png)
-`
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
+
 
 
 ---
